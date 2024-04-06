@@ -1,2 +1,2 @@
-# Shamola
+# CANDYX
 Website
